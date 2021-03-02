@@ -10,6 +10,7 @@ The data used here extracted from [Ayat Software](https://quran.ksu.edu.sa/ayat/
   ```
   pip install -r requirements.txt
   ```
+* Download audio files from [https://everyayah.com/recitations_ayat.html](https://everyayah.com/recitations_ayat.html) then extract them into `resources/mp3/`
 
 ## Run
 
@@ -17,3 +18,6 @@ The data used here extracted from [Ayat Software](https://quran.ksu.edu.sa/ayat/
 python3 main.py
 ```
 
+## Screenshot
+
+![Screenshot](https://github.com/Med-Salem-Gzizou/ayat_py/blob/master/images/Screenshot.png?raw=true)
